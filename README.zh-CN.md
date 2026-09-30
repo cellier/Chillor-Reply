@@ -4,6 +4,18 @@ Chillor 系列的原生 macOS 翻译与回复工具。通过快捷键或受支�
 
 [English](README.md) · [技术架构](docs/ARCHITECTURE.md) · [隐私说明](docs/PRIVACY.md)
 
+## 界面与视频导览
+
+[![Chillor Reply 截图导览：查看翻译，再审阅双语回复](docs/media/walkthrough.gif)](https://github.com/cellier/Chillor-Reply/raw/refs/heads/main/docs/media/walkthrough.mp4)
+
+[观看 / 下载 MP4 视频导览](https://github.com/cellier/Chillor-Reply/raw/refs/heads/main/docs/media/walkthrough.mp4)
+
+*约 12 秒的截图导览，使用虚构消息。素材来自实际开发版本的界面截图，并非实时操作录屏，也不代表模型响应速度。翻译截图展示的是生成中的状态。*
+
+| 阅读翻译 | 审阅与编辑回复 |
+| --- | --- |
+| <img src="docs/media/translation.png" alt="内容附近的玻璃浮层显示中文翻译" width="360"> | <img src="docs/media/reply.png" alt="中文草稿、英文回复与独立中文回译" width="360"> |
+
 ## 工作流程
 
 读取指针附近的内容 → 翻译来信 → 建议中文草稿 → 生成英文 → 独立中文回译 → 用户确认后复制或填回。应用不会自动发送消息。中文草稿、英文和后续修改均可审阅；界面随系统语言切换中英文。

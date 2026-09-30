@@ -4,6 +4,18 @@ A native macOS app for translating selected messages and drafting bilingual repl
 
 [中文说明](README.zh-CN.md) · [Architecture](docs/ARCHITECTURE.md) · [Privacy](docs/PRIVACY.md) · [Contributing](CONTRIBUTING.md)
 
+## See it in action
+
+[![Chillor Reply screenshot walkthrough: translate a message, then review a bilingual reply](docs/media/walkthrough.gif)](https://github.com/cellier/Chillor-Reply/raw/refs/heads/main/docs/media/walkthrough.mp4)
+
+[Watch / download the MP4 walkthrough](https://github.com/cellier/Chillor-Reply/raw/refs/heads/main/docs/media/walkthrough.mp4)
+
+*An approximately 12-second screenshot walkthrough using fictional messages. These are actual development-build screenshots, not a real-time screen recording or a latency benchmark. The translation screenshot shows generation in progress.*
+
+| Read the translation | Review and edit the reply |
+| --- | --- |
+| <img src="docs/media/translation.png" alt="Translation in the contextual glass overlay" width="360"> | <img src="docs/media/reply.png" alt="Chinese draft, English reply and independent Chinese back-translation" width="360"> |
+
 ## What it does
 
 - Capture content near your pointer with a keyboard shortcut, or a double tap on supported MacBooks.
