@@ -1,0 +1,23 @@
+# Local builds, runtime downloads and model weights
+/build/
+/dist/
+/runtime-download/
+*.app/
+*.zip
+*.tgz
+*.gguf
+.DS_Store
+# Private local state and diagnostics
+.env
+.env.*
+*.sqlite*
+*.key
+*.pem
+*.p12
+*.log
+*.jsonl
+*.csv
+# Historical local handoff notes (public documentation lives in docs/)
+/使用说明.md
+/给接收方的说明.md
+/拍击识别设计与验证.md

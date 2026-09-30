@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ · %@ 秒 · %@ · 输入 %@ tok · 输出 %@ tok · %@ tok/s</key>
+	<string>%@ · %@ s · %@ · input %@ tok · output %@ tok · %@ tok/s</string>
+	<key>%@ 天</key>
+	<string>%@ days</string>
+	<key>%@ 条附近上下文</key>
+	<string>%@ context items</string>
+	<key>%@ 次</key>
+	<string>%@ detected</string>
+	<key>%@ 次修改</key>
+	<string>%@ revisions</string>
+	<key>3 秒后抓取</key>
+	<string>Capture in 3 seconds</string>
+	<key>3 秒后读取输入框</key>
+	<string>Read input in 3 seconds</string>
+	<key>A LITTLE LESS EFFORT.</key>
+	<string>A LITTLE LESS EFFORT.</string>
+	<key>A little clearer.
+A little more you.</key>
+	<string>A little clearer.
+A little more you.</string>
+	<key>Chillor Reply · 设置</key>
+	<string>Chillor Reply · Settings</string>
+	<key>Chillor 系列的一员。让日常工作，少一点费力。</key>
+	<string>Part of the Chillor family. A little less effort, every day.</string>
+	<key>Prefer a softer, natural tone without adding apologies, offers or commitments.</key>
+	<string>Prefer a softer, natural tone without adding apologies, offers or commitments.</string>
+	<key>Prefer concise replies, without dropping the user's intended meaning.</key>
+	<string>Prefer concise replies, without dropping the user's intended meaning.</string>
+	<key>下载 / 继续下载模型</key>
+	<string>Download / resume model</string>
+	<key>下载中断：%@。再点一次会从断点继续。</key>
+	<string>Download interrupted: %@. Resume to continue where you left off.</string>
+	<key>下载完成，正在启用…</key>
+	<string>Download complete. Getting ready…</string>
+	<key>不承诺时间</key>
+	<string>No timeline</string>
+	<key>不记住这次</key>
+	<string>Private reply</string>
+	<key>两下力度差距太大</key>
+	<string>The taps differed too much in strength</string>
+	<key>两下间隔太久，请连着拍</key>
+	<string>The taps were too far apart. Try tapping in succession.</string>
+	<key>中文 → 英文</key>
+	<string>Chinese → English</string>
+	<key>中文草稿</key>
+	<string>Chinese draft</string>
+	<key>中文草稿已清空，输入后会自动生成英文。</key>
+	<string>Chinese draft cleared. Start typing to generate English.</string>
+	<key>为你，调整刚好。</key>
+	<string>Make it yours.</string>
+	<key>仅在本机</key>
+	<string>On-device only</string>
+	<key>从下一次表达开始。</key>
+	<string>It starts with your next reply.</string>
+	<key>你想怎么说</key>
+	<string>What you want to say</string>
+	<key>你的偏好</key>
+	<string>Your preference</string>
+	<key>你的意思，恰好的英文。</key>
+	<string>Your thoughts. The right words.</string>
+	<key>使用截图补充文字识别</key>
+	<string>Use screenshots to help recognize text</string>
+	<key>例如：回复先说结论，避免不必要的客套。</key>
+	<string>For example: lead with the point and avoid unnecessary pleasantries.</string>
+	<key>保存</key>
+	<string>Save</string>
+	<key>保守</key>
+	<string>Conservative</string>
+	<key>保留当前回复</key>
+	<string>Keep current reply</string>
+	<key>保留记录</key>
+	<string>Keep history</string>
+	<key>修改要求</key>
+	<string>Revision instructions</string>
+	<key>停止生成</key>
+	<string>Stop generating</string>
+	<key>停笔后自动回译当前英文…</key>
+	<string>Back-translation will update when you pause…</string>
+	<key>停笔后自动更新英文和回译…</key>
+	<string>English and back-translation will update when you pause…</string>
+	<key>停笔后，英文与回译自动更新</key>
+	<string>English and back-translation update as you pause</string>
+	<key>全选</key>
+	<string>Select All</string>
+	<key>关于 Chillor Reply</key>
+	<string>About Chillor Reply</string>
+	<key>关闭浮层</key>
+	<string>Dismiss overlay</string>
+	<key>内置示例（虚构消息）</key>
+	<string>Sample message</string>
+	<key>再调整一点</key>
+	<string>Fine-tune it</string>
+	<key>写一条好回复</key>
+	<string>Write something thoughtful.</string>
+	<key>删除</key>
+	<string>Delete</string>
+	<key>删除全部记忆？</key>
+	<string>Delete all memories?</string>
+	<key>删除这条记录？</key>
+	<string>Delete this record?</string>
+	<key>刷新权限状态</key>
+	<string>Refresh permission status</string>
+	<key>前往开启</key>
+	<string>Open Settings</string>
+	<key>剪切</key>
+	<string>Cut</string>
+	<key>加密保存在本机</key>
+	<string>Encrypted on this Mac</string>
+	<key>原文与译文，随时对照</key>
+	<string>Source and translation, side by side</string>
+	<key>原窗口已经切换。请重新读取输入框，或复制英文自行粘贴。</key>
+	<string>The original window changed. Read the input again, or copy and paste the English yourself.</string>
+	<key>原词，例如产品名称</key>
+	<string>Original term, such as a product name</string>
+	<key>原输入框已改变或关闭。为保留你的新内容，请重新在输入框按 ⌃⌥R，或复制英文自行粘贴。</key>
+	<string>The original input changed or closed. To preserve your new text, read it again with ⌃⌥R or copy and paste the English yourself.</string>
+	<key>参考了 %@ 条记忆</key>
+	<string>Used %@ memories</string>
+	<key>反复采用的简洁、柔和修改会逐渐形成偏好；一次修改不会变成永久规则。也可以直接写下你的偏好。</key>
+	<string>Repeatedly choosing shorter or softer revisions can shape your style. One edit is never a lasting rule. You can also add a preference directly.</string>
+	<key>发件人</key>
+	<string>Sender</string>
+	<key>取消</key>
+	<string>Cancel</string>
+	<key>取消选择</key>
+	<string>Deselect all</string>
+	<key>只测试，不抓取消息</key>
+	<string>Test only, without capturing</string>
+	<key>只看英文，不参考你的中文草稿。</key>
+	<string>Based only on the English, without seeing your Chinese draft.</string>
+	<key>可以核对了</key>
+	<string>Ready to review</string>
+	<key>可添加偏好；采用回复后，系统会逐步学习表达习惯。</key>
+	<string>Add preferences, or let adopted replies inform your writing style over time.</string>
+	<key>可直接编辑</key>
+	<string>Editable</string>
+	<key>后面还有动作，已取消</key>
+	<string>More movement followed. Gesture canceled.</string>
+	<key>告诉我怎么改…</key>
+	<string>Tell me what to change…</string>
+	<key>唤起方式</key>
+	<string>Shortcuts &amp; gestures</string>
+	<key>回到原应用粘贴，检查后发送。</key>
+	<string>Paste into the original app, review, then send.</string>
+	<key>回复</key>
+	<string>Reply</string>
+	<key>回复超出本地模型的长度限制，请缩短消息后重试。</key>
+	<string>The reply exceeded the local model's length limit. Shorten the message and try again.</string>
+	<key>回译已自动更新，请核对。</key>
+	<string>Back-translation updated. Please review it.</string>
+	<key>在本机记住主动截取的文字和采用的回复，逐渐熟悉你的表达。随时可暂停或删除。</key>
+	<string>Remember captured text and the replies you use, on this Mac. Gradually learn your style. Pause or delete anytime.</string>
+	<key>复制</key>
+	<string>Copy</string>
+	<key>复制英文</key>
+	<string>Copy English</string>
+	<key>复制译文</key>
+	<string>Copy translation</string>
+	<key>完成</key>
+	<string>Done</string>
+	<key>完成权限设置，开始跨应用抓取</key>
+	<string>Set up permissions to capture from other apps</string>
+	<key>对话累积得太长了。点「清空对话」后，把要求合成一句重新说。</key>
+	<string>The revision history is too long. Clear it, then combine your instructions into one request.</string>
+	<key>就绪，请连拍 %@ 下</key>
+	<string>Ready. Tap %@ times in succession.</string>
+	<key>屏幕录制</key>
+	<string>Screen Recording</string>
+	<key>展开工作区</key>
+	<string>Open workspace</string>
+	<key>已停止，可继续编辑。</key>
+	<string>Stopped. You can keep editing.</string>
+	<key>已回到上一版，请核对。</key>
+	<string>Previous version restored. Please review it.</string>
+	<key>已回到修改之前。</key>
+	<string>Restored the earlier version.</string>
+	<key>已填回</key>
+	<string>Filled in</string>
+	<key>已复制</key>
+	<string>Copied</string>
+	<key>已开启</key>
+	<string>Enabled</string>
+	<key>已按要求改写。请核对回译，它才是英文实际说的话。</key>
+	<string>Revised. Review the back-translation to check what the English actually says.</string>
+	<key>已暂停。再点「继续下载」会从断点继续。</key>
+	<string>Paused. Resume to continue where you left off.</string>
+	<key>已暂停。再点「继续下载」会从断点继续，已下载的部分不会重来。</key>
+	<string>Paused. Resume the download to continue where you left off.</string>
+	<key>已暂停读取和保存</key>
+	<string>Remembering and recall paused</string>
+	<key>已自动完成。你可以改中文，英文和回译会跟随更新；核对后再使用。</key>
+	<string>Ready. Edit the Chinese to update the English and back-translation, then review before use.</string>
+	<key>已识别拍击</key>
+	<string>Tap gesture detected</string>
+	<key>已选中目标和附近上下文，自动翻译并起草。无关内容可取消勾选，漏段可并入目标。</key>
+	<string>Source and nearby context selected. Translation and drafting start automatically. You can remove unrelated context or add missing paragraphs.</string>
+	<key>已采用</key>
+	<string>Used</string>
+	<key>希望使用的译法</key>
+	<string>Preferred translation</string>
+	<key>并入目标原文</key>
+	<string>Add to source message</string>
+	<key>应用修改要求</key>
+	<string>Apply revision</string>
+	<key>开启后记录主动截取的文字和回复。只保留所选上下文，不保存截图。</key>
+	<string>When enabled, remembers text you capture and your replies. Only selected context is kept; screenshots are not saved.</string>
+	<key>开启本机记忆</key>
+	<string>Enable memory</string>
+	<key>开启记忆后，所选文字和回复加密保存在本机。可随时暂停、纠正或删除。</key>
+	<string>With memory enabled, selected text and replies are encrypted on this Mac. Pause, correct, or delete anytime.</string>
+	<key>开始前动作较多，稍停后再拍</key>
+	<string>Movement detected before the tap. Pause briefly and try again.</string>
+	<key>开始新回复</key>
+	<string>Start new reply</string>
+	<key>开始新的回复？</key>
+	<string>Start a new reply?</string>
+	<key>当前内容只保留在内存，不保存聊天历史。外观跟随系统，支持减少动态效果。</key>
+	<string>This session stays in memory. No chat history is saved. Appearance follows your system and respects Reduce Motion.</string>
+	<key>当前明确要求始终优先。</key>
+	<string>Your current instructions always come first.</string>
+	<key>快捷键注册失败，请使用“3 秒后抓取”按钮。</key>
+	<string>The capture shortcut could not be registered. Use Capture in 3 seconds instead.</string>
+	<key>恰好的英文</key>
+	<string>The right words</string>
+	<key>慢慢，更懂你。</key>
+	<string>A little more like you.</string>
+	<key>或轻拍三下机身</key>
+	<string>or tap your Mac three times</string>
+	<key>或轻拍两下机身</key>
+	<string>or tap your Mac twice</string>
+	<key>截图对照</key>
+	<string>Screenshot</string>
+	<key>截图未成功：%@。可以检查已有文字；刚授权后请退出并重新打开。</key>
+	<string>Screenshot failed: %@. You can review any text already read. If access was just granted, quit and reopen the app.</string>
+	<key>手势</key>
+	<string>Gesture</string>
+	<key>打字中，拍击暂不触发</key>
+	<string>Typing detected. Taps are temporarily paused.</string>
+	<key>打字后停 0.3 秒，再连拍机身。只读取按键活动时间，不读取输入内容。</key>
+	<string>Pause for 0.3 seconds after typing, then tap your Mac. Only keyboard activity timing is read, never what you type.</string>
+	<key>打开 Chillor Reply</key>
+	<string>Open Chillor Reply</string>
+	<key>把想法写在这里。
+不用斟酌英文，先把意思说明白。</key>
+	<string>Start with your thoughts.
+Write in Chinese; the English will follow.</string>
+	<key>把鼠标移到一条消息上，按 ⌃⌥Space。</key>
+	<string>Point to a message and press ⌃⌥Space.</string>
+	<key>抓取一条消息</key>
+	<string>Capture a message</string>
+	<key>抓取后可对照原窗口。</key>
+	<string>Capture a message to view its original window.</string>
+	<key>抓取消息后，可在这里调整上下文。</key>
+	<string>Capture a message to review its context here.</string>
+	<key>抓取鼠标指向的消息</key>
+	<string>Capture the message under your pointer</string>
+	<key>拍三下</key>
+	<string>Triple tap</string>
+	<key>拍两下</key>
+	<string>Double tap</string>
+	<key>拍击不可用：需要加速度计和陀螺仪均可读取</key>
+	<string>Tap detection requires readable accelerometer and gyroscope data</string>
+	<key>拍击检测已关闭</key>
+	<string>Tap detection is off</string>
+	<key>拍机身触发</key>
+	<string>Tap your Mac to capture</string>
+	<key>指向内容，按快捷键查看翻译和回复。</key>
+	<string>Point at content and use the shortcut to translate and draft a reply.</string>
+	<key>指向消息按 ⌃⌥Space，自动翻译并起草回复。</key>
+	<string>Point to a message and press ⌃⌥Space to translate and draft a reply.</string>
+	<key>指向消息，按</key>
+	<string>Point to a message, then press</string>
+	<key>搜索记忆</key>
+	<string>Search memories</string>
+	<key>搜索记忆…</key>
+	<string>Search memories…</string>
+	<key>撤销</key>
+	<string>Undo</string>
+	<key>撤销上一步</key>
+	<string>Undo last revision</string>
+	<key>撰写回复</key>
+	<string>Compose reply</string>
+	<key>收到拍击，正在排除后续动作…</key>
+	<string>Tap detected. Checking for further movement…</string>
+	<key>收到第 %@ 下</key>
+	<string>Tap %@ detected</string>
+	<key>改中文，英文自动跟上</key>
+	<string>Edit Chinese. English follows.</string>
+	<key>改写英文，不发送消息</key>
+	<string>Revise the English without sending it</string>
+	<key>新回复</key>
+	<string>New reply</string>
+	<key>新回复 ⌘N</key>
+	<string>New reply ⌘N</string>
+	<key>无需整理笔记，也不用每天教一遍。你可以随时查看和纠正。</key>
+	<string>No notes to organize, no daily coaching. You can review and correct what is remembered anytime.</string>
+	<key>旧版记忆需要一次迁移。完成后无需再解锁，已有记录会保留。</key>
+	<string>Older memories need a one-time migration. Your records will be kept, with no further unlocking required.</string>
+	<key>显示最近 100 条，搜索可缩小范围。</key>
+	<string>Showing the latest 100. Search to narrow the results.</string>
+	<key>暂不开启</key>
+	<string>Not now</string>
+	<key>暂停下载</key>
+	<string>Pause download</string>
+	<key>暂无偏好</key>
+	<string>No preferences yet</string>
+	<key>暂无截图</key>
+	<string>No screenshot yet</string>
+	<key>暂无沟通记录</key>
+	<string>No history yet</string>
+	<key>更多</key>
+	<string>More</string>
+	<key>更柔和的语气</key>
+	<string>A softer tone</string>
+	<key>更简洁的回复</key>
+	<string>More concise replies</string>
+	<key>最后一句，由你决定。</key>
+	<string>The final word is yours.</string>
+	<key>有用的对话，留在这里。</key>
+	<string>Useful conversations, close at hand.</string>
+	<key>未收到连续传感器数据，请关闭后重试</key>
+	<string>No continuous sensor data. Turn tap detection off and try again.</string>
+	<key>未检测运动传感器</key>
+	<string>Motion sensors not checked</string>
+	<key>未能复制英文，请重试。</key>
+	<string>Could not copy the English. Please try again.</string>
+	<key>未能确认填回成功，请检查原输入框；也可以复制英文。</key>
+	<string>Could not confirm the text was filled in. Check the original input, or copy the English.</string>
+	<key>未识别，可留空</key>
+	<string>Not detected; optional</string>
+	<key>未读到内容。请指向消息正文重试，或开启截图识别。</key>
+	<string>No text found. Point to the message body and try again, or enable screenshot recognition.</string>
+	<key>未采用</key>
+	<string>Draft</string>
+	<key>本地 Qwen · 已就绪</key>
+	<string>Local Qwen · Ready</string>
+	<key>本地智能</key>
+	<string>Local intelligence</string>
+	<key>本地模型已就绪</key>
+	<string>Local model ready</string>
+	<key>本地模型服务没有接受下载请求。请点「重新检查」后再试。</key>
+	<string>The model service did not accept the download request. Reconnect and try again.</string>
+	<key>本地模型没有生成文字，请重试。</key>
+	<string>The local model generated no text. Please try again.</string>
+	<key>本地模型请求未成功。请检查模型状态后重试。</key>
+	<string>The local model request failed. Check its status and try again.</string>
+	<key>本地模型返回错误，请重试。</key>
+	<string>The local model returned an error. Please try again.</string>
+	<key>本地模型返回错误：%@</key>
+	<string>The local model returned an error: %@</string>
+	<key>本机记忆</key>
+	<string>Local memory</string>
+	<key>本次不读取、不保存记忆。</key>
+	<string>Do not read or save memories for this reply.</string>
+	<key>本次内容已清除。</key>
+	<string>Session cleared.</string>
+	<key>本次内容较长，请减少上下文或缩短草稿。</key>
+	<string>Too much text. Reduce the context or shorten your draft.</string>
+	<key>本次原文、草稿和修改记录会被清除。</key>
+	<string>This will clear the current source, draft, and revision history.</string>
+	<key>本次处理耗时</key>
+	<string>Processing times</string>
+	<key>术语</key>
+	<string>Terms</string>
+	<key>机器在移动，等待放稳</key>
+	<string>Your Mac is moving. Wait until it is still.</string>
+	<key>来信译文会显示在这里…</key>
+	<string>The translated message will appear here…</string>
+	<key>来自 </key>
+	<string>From </string>
+	<key>来自 %@ 条采用记录</key>
+	<string>Based on %@ used replies</string>
+	<key>极灵敏</key>
+	<string>Very sensitive</string>
+	<key>柔和一点</key>
+	<string>Softer</string>
+	<key>查看原文、截图与附近上下文</key>
+	<string>View the source, screenshot, and nearby context</string>
+	<key>标准</key>
+	<string>Standard</string>
+	<key>核对</key>
+	<string>Review</string>
+	<key>核对中文与回译，再确认使用。不会自动发送。</key>
+	<string>Check your draft against the back-translation. Nothing is sent automatically.</string>
+	<key>核对回复</key>
+	<string>Review reply</string>
+	<key>模型</key>
+	<string>Model</string>
+	<key>正在下载模型权重…</key>
+	<string>Downloading model weights…</string>
+	<key>正在写入本机…</key>
+	<string>Saving to this Mac…</string>
+	<key>正在写英文</key>
+	<string>Writing in English</string>
+	<key>正在准备模型…</key>
+	<string>Preparing the model…</string>
+	<key>正在回到上一版英文…</key>
+	<string>Restoring the previous English version…</string>
+	<key>正在回译当前英文…</key>
+	<string>Back-translating the current English…</string>
+	<key>正在按你的要求改写英文…</key>
+	<string>Revising the English with your instructions…</string>
+	<key>正在整理你的意思</key>
+	<string>Shaping your thoughts</string>
+	<key>正在本机识别文字…</key>
+	<string>Recognizing text on this Mac…</string>
+	<key>正在本机读取…</key>
+	<string>Reading on this Mac…</string>
+	<key>正在校验完整性…</key>
+	<string>Verifying the download…</string>
+	<key>正在核对英文含义</key>
+	<string>Checking the meaning</string>
+	<key>正在独立回译英文，供你核对…</key>
+	<string>Independently back-translating the English for review…</string>
+	<key>正在独立回译，供你核对这次改动的实际含义…</key>
+	<string>Back-translating independently so you can check this revision…</string>
+	<key>正在生成英文回复…</key>
+	<string>Writing your English reply…</string>
+	<key>正在自动处理本次消息…</key>
+	<string>Processing this message…</string>
+	<key>正在获取模型信息…</key>
+	<string>Fetching model information…</string>
+	<key>正在读取消息</key>
+	<string>Reading the message</string>
+	<key>正在起草中文回复…</key>
+	<string>Drafting a reply in Chinese…</string>
+	<key>正在连接本地模型…</key>
+	<string>Connecting to the local model…</string>
+	<key>正在预热模型…</key>
+	<string>Warming up the model…</string>
+	<key>每一句，都有来处。</key>
+	<string>Every reply starts somewhere.</string>
+	<key>永久</key>
+	<string>Forever</string>
+	<key>沟通记录</key>
+	<string>History</string>
+	<key>沟通记录、术语和偏好都会删除。当前回复不会重新写回记忆；新回复可以重新积累。</key>
+	<string>History, terms, and preferences will be deleted. This reply will not be saved again; new replies can start fresh.</string>
+	<key>没有找到鼠标下的可抓取窗口。已有文字仍可检查。</key>
+	<string>No capturable window under the pointer. You can still review any text already read.</string>
+	<key>没有读到文字。请在聊天输入框写几句中文再按 ⌃⌥R；也可以直接在此起草。</key>
+	<string>No text found. Write some Chinese in the chat input field and press ⌃⌥R, or draft here.</string>
+	<key>消息来源</key>
+	<string>Source</string>
+	<key>添加记忆</key>
+	<string>Add memory</string>
+	<key>清空修改记录</key>
+	<string>Clear revision history</string>
+	<key>清空全部</key>
+	<string>Delete all</string>
+	<key>清零</key>
+	<string>Reset</string>
+	<key>灵敏</key>
+	<string>Sensitive</string>
+	<key>灵敏度</key>
+	<string>Sensitivity</string>
+	<key>点击中，拍击暂不触发</key>
+	<string>Clicking detected. Taps are temporarily paused.</string>
+	<key>版本</key>
+	<string>Version</string>
+	<key>状态</key>
+	<string>Status</string>
+	<key>独立回译</key>
+	<string>Independent back-translation</string>
+	<key>独立回译，发送前更安心</key>
+	<string>Check the meaning before sending</string>
+	<key>生成的草稿较长，请缩短后自动重试。</key>
+	<string>The generated draft is too long. Shorten it to retry automatically.</string>
+	<key>用于理解</key>
+	<string>Include as context</string>
+	<key>由你指定</key>
+	<string>Added by you</string>
+	<key>目标原文</key>
+	<string>Source message</string>
+	<key>目标消息</key>
+	<string>Selected message</string>
+	<key>直接写回复</key>
+	<string>Write a reply</string>
+	<key>相邻不代表同一话题。取消无关内容，或将漏掉的段落并入目标。</key>
+	<string>Nearby text may be unrelated. Deselect it, or add missing paragraphs to the source.</string>
+	<key>看原文</key>
+	<string>Original</string>
+	<key>看译文</key>
+	<string>Translation</string>
+	<key>确认并填回</key>
+	<string>Confirm &amp; fill</string>
+	<key>确认并复制英文</key>
+	<string>Confirm &amp; copy English</string>
+	<key>确认目标消息，保留真正相关的上下文。</key>
+	<string>Check the source message and keep only relevant context.</string>
+	<key>磁盘空间不足：模型需要约 %@，当前可用 %@。清理后再试。</key>
+	<string>Not enough disk space. The model needs about %@; %@ is available. Free some space and try again.</string>
+	<key>示例识别失败：%@</key>
+	<string>Could not read the example: %@</string>
+	<key>示例：已选中目标及附近候选上下文，自动翻译并起草。可取消无关上下文。</key>
+	<string>Example loaded. Translation and drafting start automatically. Deselect unrelated context as needed.</string>
+	<key>立即更新英文</key>
+	<string>Update English now</string>
+	<key>等待传感器数据…</key>
+	<string>Waiting for sensor data…</string>
+	<key>等待传感器稳定…</key>
+	<string>Waiting for the sensors to settle…</string>
+	<key>等待本地模型就绪，随后自动处理…</key>
+	<string>Waiting for the local model. Processing will start automatically…</string>
+	<key>简短一点</key>
+	<string>Shorter</string>
+	<key>管理本机保存的记录、偏好与术语。</key>
+	<string>Manage saved history, preferences, and terms.</string>
+	<key>粘贴</key>
+	<string>Paste</string>
+	<key>约 17.7 GB，仅首次下载需要联网。聊天内容在本机处理，没有云端回退。</key>
+	<string>About 17.7 GB. Only the first download needs internet. Your messages stay on this Mac, with no cloud fallback.</string>
+	<key>结果</key>
+	<string>Result</string>
+	<key>编辑</key>
+	<string>Edit</string>
+	<key>缩放</key>
+	<string>Zoom</string>
+	<key>缺少本地模型组件，请使用完整的 Chillor Reply.app。</key>
+	<string>Local model components are missing. Use the complete Chillor Reply.app.</string>
+	<key>翻译</key>
+	<string>Translation</string>
+	<key>翻译与回复</key>
+	<string>Translation &amp; reply</string>
+	<key>英文 → 中文</key>
+	<string>English → Chinese</string>
+	<key>英文回复</key>
+	<string>English reply</string>
+	<key>英文回复将显示在这里。</key>
+	<string>Your English reply appears here.</string>
+	<key>英文实际表达的意思</key>
+	<string>What the English actually says</string>
+	<key>英文已填回，请在原应用检查并手动发送。</key>
+	<string>English filled in. Review it in the original app and send it yourself.</string>
+	<key>英文已复制</key>
+	<string>English copied</string>
+	<key>英文已复制，可回到输入框粘贴。</key>
+	<string>English copied. Paste it into the original app.</string>
+	<key>英文生成后，会独立回译成中文供你核对。</key>
+	<string>A separate Chinese back-translation will help you review the English.</string>
+	<key>蓝框为目标，橙框为上下文，虚线为筛选范围。截图不会上传或存档。</key>
+	<string>Blue: source. Orange: context. Dashed: search area. Screenshots are never uploaded or saved.</string>
+	<key>表达</key>
+	<string>Compose</string>
+	<key>表达偏好</key>
+	<string>Your style</string>
+	<key>解锁记忆</key>
+	<string>Unlock memory</string>
+	<key>让下一次，更贴近你。</key>
+	<string>Make the next reply more like you.</string>
+	<key>让表达，贴近你的本意。</key>
+	<string>Make it sound like you.</string>
+	<key>记住产品名或常用词的译法，只在当前文字出现该术语时参考。</key>
+	<string>Keep consistent translations for product names and familiar terms. A mapping is used only when the term appears in your text.</string>
+	<key>记住有用的，留下决定权。</key>
+	<string>Keep what helps. Stay in control.</string>
+	<key>记忆</key>
+	<string>Memory</string>
+	<key>记忆内容</key>
+	<string>Memory content</string>
+	<key>记忆已锁定。解锁后可继续使用；现有记录保持不变。</key>
+	<string>Memory is locked. Unlock to resume; your saved records are unchanged.</string>
+	<key>记忆暂不可用，当前回复不会保存。</key>
+	<string>Memory is unavailable. This reply will not be saved.</string>
+	<key>记忆未保存</key>
+	<string>Memory needs attention</string>
+	<key>记忆未能保存，请打开记忆重试。</key>
+	<string>Memory could not be saved. Open Memory to retry.</string>
+	<key>设为目标消息</key>
+	<string>Use as source message</string>
+	<key>设置</key>
+	<string>Settings</string>
+	<key>设置 ⌘,</key>
+	<string>Settings ⌘,</string>
+	<key>设置…</key>
+	<string>Settings…</string>
+	<key>试一条示例</key>
+	<string>Try an example</string>
+	<key>请先开启辅助功能或屏幕录制权限，再抓取。</key>
+	<string>Enable Accessibility or Screen Recording before capturing.</string>
+	<key>请先开启辅助功能，再在聊天输入框按 ⌃⌥R。</key>
+	<string>Enable Accessibility, then press ⌃⌥R in the chat input field.</string>
+	<key>请先点击原应用的输入框，写好中文后按 ⌃⌥R。</key>
+	<string>Click the input field in the original app, write in Chinese, then press ⌃⌥R.</string>
+	<key>请在 3 秒内把鼠标移到目标消息上…</key>
+	<string>Move your pointer to the message within 3 seconds…</string>
+	<key>读取原输入框草稿</key>
+	<string>Read a draft from the original app</string>
+	<key>读懂</key>
+	<string>Understand</string>
+	<key>读懂来信</key>
+	<string>Understand the message</string>
+	<key>读懂来信，用中文想清楚，再从容回复。</key>
+	<string>Read the message. Think in Chinese. Reply with confidence.</string>
+	<key>跨应用权限</key>
+	<string>App permissions</string>
+	<key>载入 %@ 秒</key>
+	<string>load %@ s</string>
+	<key>辅助功能</key>
+	<string>Accessibility</string>
+	<key>辅助功能用于读取与填回；屏幕录制用于本地识字。首次授予屏幕录制权限后，请退出并重新打开应用。</key>
+	<string>Accessibility lets you read and fill text. Screen Recording enables on-device text recognition. Quit and reopen the app after first granting Screen Recording access.</string>
+	<key>输入中文草稿…</key>
+	<string>Write your draft in Chinese…</string>
+	<key>输入框快捷键注册失败，请直接在这里起草。</key>
+	<string>The input shortcut could not be registered. Write your draft here instead.</string>
+	<key>迁移已有记忆</key>
+	<string>Migrate existing memory</string>
+	<key>运动传感器可用</key>
+	<string>Motion sensors available</string>
+	<key>这个应用未提供可读取的输入框。可以在此写中文，核对后复制英文。</key>
+	<string>This app does not expose a readable input field. Write Chinese here, then review and copy the English.</string>
+	<key>这个输入框不支持直接填回。请点“复制英文”，回到输入框粘贴。</key>
+	<string>This input does not support direct filling. Copy the English and paste it into the original app.</string>
+	<key>这些内容提供给了生成步骤，独立回译不会读取记忆。</key>
+	<string>These memories were provided when generating. Independent back-translation never reads memory.</string>
+	<key>这台机器缺少可用的运动传感器</key>
+	<string>No supported motion sensors on this Mac</string>
+	<key>这条记录支持的自动偏好也会重新评估。</key>
+	<string>Any learned preferences supported by this record will be reassessed.</string>
+	<key>这次不用</key>
+	<string>Skip for this reply</string>
+	<key>这次参考了什么</key>
+	<string>What informed this reply</string>
+	<key>退出</key>
+	<string>Quit</string>
+	<key>退出 Chillor Reply</key>
+	<string>Quit Chillor Reply</string>
+	<key>适应</key>
+	<string>Fit</string>
+	<key>选中的上下文</key>
+	<string>Selected context</string>
+	<key>采用版本不代表已经发送。</key>
+	<string>Copied or filled does not mean sent.</string>
+	<key>重新独立回译</key>
+	<string>Refresh independent back-translation</string>
+	<key>重新翻译来信</key>
+	<string>Translate the message again</string>
+	<key>重新连接</key>
+	<string>Reconnect</string>
+	<key>重试</key>
+	<string>Retry</string>
+	<key>间隔超时，请连着拍</key>
+	<string>Too much time between taps. Try tapping in succession.</string>
+	<key>阅读翻译</key>
+	<string>Reading translation</string>
+	<key>附近上下文 · %@ 条</key>
+	<string>Nearby context · %@ selected</string>
+	<key>需下载本地模型（约 17.7 GB）</key>
+	<string>Download the local model (about 17.7 GB)</string>
+	<key>预热</key>
+	<string>Warm-up</string>
+	<key>鼠标指向了助手自己。请移到聊天消息，再按快捷键。</key>
+	<string>Your pointer is over Chillor Reply. Point to a chat message and try the shortcut again.</string>
+</dict>
+</plist>

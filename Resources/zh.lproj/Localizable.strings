@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ · %@ 秒 · %@ · 输入 %@ tok · 输出 %@ tok · %@ tok/s</key>
+	<string>%@ · %@ 秒 · %@ · 输入 %@ tok · 输出 %@ tok · %@ tok/s</string>
+	<key>%@ 天</key>
+	<string>%@ 天</string>
+	<key>%@ 条附近上下文</key>
+	<string>%@ 条附近上下文</string>
+	<key>%@ 次</key>
+	<string>%@ 次</string>
+	<key>%@ 次修改</key>
+	<string>%@ 次修改</string>
+	<key>3 秒后抓取</key>
+	<string>3 秒后抓取</string>
+	<key>3 秒后读取输入框</key>
+	<string>3 秒后读取输入框</string>
+	<key>A LITTLE LESS EFFORT.</key>
+	<string>让日常，少一点费力。</string>
+	<key>A little clearer.
+A little more you.</key>
+	<string>表达更清楚。
+也更像你。</string>
+	<key>Chillor Reply · 设置</key>
+	<string>Chillor Reply · 设置</string>
+	<key>Chillor 系列的一员。让日常工作，少一点费力。</key>
+	<string>Chillor 系列的一员。让日常工作，少一点费力。</string>
+	<key>Prefer a softer, natural tone without adding apologies, offers or commitments.</key>
+	<string>偏好柔和自然的语气，不额外增加道歉、提议或承诺。</string>
+	<key>Prefer concise replies, without dropping the user's intended meaning.</key>
+	<string>偏好简洁的回复，但不省略原本想表达的意思。</string>
+	<key>下载 / 继续下载模型</key>
+	<string>下载 / 继续下载模型</string>
+	<key>下载中断：%@。再点一次会从断点继续。</key>
+	<string>下载中断：%@。再点一次会从断点继续。</string>
+	<key>下载完成，正在启用…</key>
+	<string>下载完成，正在启用…</string>
+	<key>不承诺时间</key>
+	<string>不承诺时间</string>
+	<key>不记住这次</key>
+	<string>不记住这次</string>
+	<key>两下力度差距太大</key>
+	<string>两下力度差距太大</string>
+	<key>两下间隔太久，请连着拍</key>
+	<string>两下间隔太久，请连着拍</string>
+	<key>中文 → 英文</key>
+	<string>中文 → 英文</string>
+	<key>中文草稿</key>
+	<string>中文草稿</string>
+	<key>中文草稿已清空，输入后会自动生成英文。</key>
+	<string>中文草稿已清空，输入后会自动生成英文。</string>
+	<key>为你，调整刚好。</key>
+	<string>为你，调整刚好。</string>
+	<key>仅在本机</key>
+	<string>仅在本机</string>
+	<key>从下一次表达开始。</key>
+	<string>从下一次表达开始。</string>
+	<key>你想怎么说</key>
+	<string>你想怎么说</string>
+	<key>你的偏好</key>
+	<string>你的偏好</string>
+	<key>你的意思，恰好的英文。</key>
+	<string>你的意思，恰好的英文。</string>
+	<key>使用截图补充文字识别</key>
+	<string>使用截图补充文字识别</string>
+	<key>例如：回复先说结论，避免不必要的客套。</key>
+	<string>例如：回复先说结论，避免不必要的客套。</string>
+	<key>保存</key>
+	<string>保存</string>
+	<key>保守</key>
+	<string>保守</string>
+	<key>保留当前回复</key>
+	<string>保留当前回复</string>
+	<key>保留记录</key>
+	<string>保留记录</string>
+	<key>修改要求</key>
+	<string>修改要求</string>
+	<key>停止生成</key>
+	<string>停止生成</string>
+	<key>停笔后自动回译当前英文…</key>
+	<string>停笔后自动回译当前英文…</string>
+	<key>停笔后自动更新英文和回译…</key>
+	<string>停笔后自动更新英文和回译…</string>
+	<key>停笔后，英文与回译自动更新</key>
+	<string>停笔后，英文与回译自动更新</string>
+	<key>全选</key>
+	<string>全选</string>
+	<key>关于 Chillor Reply</key>
+	<string>关于 Chillor Reply</string>
+	<key>关闭浮层</key>
+	<string>关闭浮层</string>
+	<key>内置示例（虚构消息）</key>
+	<string>示例消息</string>
+	<key>再调整一点</key>
+	<string>再调整一点</string>
+	<key>写一条好回复</key>
+	<string>写一条好回复</string>
+	<key>删除</key>
+	<string>删除</string>
+	<key>删除全部记忆？</key>
+	<string>删除全部记忆？</string>
+	<key>删除这条记录？</key>
+	<string>删除这条记录？</string>
+	<key>刷新权限状态</key>
+	<string>刷新权限状态</string>
+	<key>前往开启</key>
+	<string>前往开启</string>
+	<key>剪切</key>
+	<string>剪切</string>
+	<key>加密保存在本机</key>
+	<string>加密保存在本机</string>
+	<key>原文与译文，随时对照</key>
+	<string>原文与译文，随时对照</string>
+	<key>原窗口已经切换。请重新读取输入框，或复制英文自行粘贴。</key>
+	<string>原窗口已经切换。请重新读取输入框，或复制英文自行粘贴。</string>
+	<key>原词，例如产品名称</key>
+	<string>原词，例如产品名称</string>
+	<key>原输入框已改变或关闭。为保留你的新内容，请重新在输入框按 ⌃⌥R，或复制英文自行粘贴。</key>
+	<string>原输入框已改变或关闭。为保留你的新内容，请重新在输入框按 ⌃⌥R，或复制英文自行粘贴。</string>
+	<key>参考了 %@ 条记忆</key>
+	<string>参考了 %@ 条记忆</string>
+	<key>反复采用的简洁、柔和修改会逐渐形成偏好；一次修改不会变成永久规则。也可以直接写下你的偏好。</key>
+	<string>反复采用的简洁、柔和修改会逐渐形成偏好；一次修改不会变成永久规则。也可以直接写下你的偏好。</string>
+	<key>发件人</key>
+	<string>发件人</string>
+	<key>取消</key>
+	<string>取消</string>
+	<key>取消选择</key>
+	<string>取消选择</string>
+	<key>只测试，不抓取消息</key>
+	<string>只测试，不抓取消息</string>
+	<key>只看英文，不参考你的中文草稿。</key>
+	<string>只看英文，不参考你的中文草稿。</string>
+	<key>可以核对了</key>
+	<string>可以核对了</string>
+	<key>可添加偏好；采用回复后，系统会逐步学习表达习惯。</key>
+	<string>可添加偏好；采用回复后，系统会逐步学习表达习惯。</string>
+	<key>可直接编辑</key>
+	<string>可直接编辑</string>
+	<key>后面还有动作，已取消</key>
+	<string>后面还有动作，已取消</string>
+	<key>告诉我怎么改…</key>
+	<string>告诉我怎么改…</string>
+	<key>唤起方式</key>
+	<string>唤起方式</string>
+	<key>回到原应用粘贴，检查后发送。</key>
+	<string>回到原应用粘贴，检查后发送。</string>
+	<key>回复</key>
+	<string>回复</string>
+	<key>回复超出本地模型的长度限制，请缩短消息后重试。</key>
+	<string>回复超出本地模型的长度限制，请缩短消息后重试。</string>
+	<key>回译已自动更新，请核对。</key>
+	<string>回译已自动更新，请核对。</string>
+	<key>在本机记住主动截取的文字和采用的回复，逐渐熟悉你的表达。随时可暂停或删除。</key>
+	<string>在本机记住主动截取的文字和采用的回复，逐渐熟悉你的表达。随时可暂停或删除。</string>
+	<key>复制</key>
+	<string>复制</string>
+	<key>复制英文</key>
+	<string>复制英文</string>
+	<key>复制译文</key>
+	<string>复制译文</string>
+	<key>完成</key>
+	<string>完成</string>
+	<key>完成权限设置，开始跨应用抓取</key>
+	<string>完成权限设置，开始跨应用抓取</string>
+	<key>对话累积得太长了。点「清空对话」后，把要求合成一句重新说。</key>
+	<string>对话累积得太长了。点「清空对话」后，把要求合成一句重新说。</string>
+	<key>就绪，请连拍 %@ 下</key>
+	<string>就绪，请连拍 %@ 下</string>
+	<key>屏幕录制</key>
+	<string>屏幕录制</string>
+	<key>展开工作区</key>
+	<string>展开工作区</string>
+	<key>已停止，可继续编辑。</key>
+	<string>已停止，可继续编辑。</string>
+	<key>已回到上一版，请核对。</key>
+	<string>已回到上一版，请核对。</string>
+	<key>已回到修改之前。</key>
+	<string>已回到修改之前。</string>
+	<key>已填回</key>
+	<string>已填回</string>
+	<key>已复制</key>
+	<string>已复制</string>
+	<key>已开启</key>
+	<string>已开启</string>
+	<key>已按要求改写。请核对回译，它才是英文实际说的话。</key>
+	<string>已按要求改写。请核对回译，它才是英文实际说的话。</string>
+	<key>已暂停。再点「继续下载」会从断点继续。</key>
+	<string>已暂停。再点「继续下载」会从断点继续。</string>
+	<key>已暂停。再点「继续下载」会从断点继续，已下载的部分不会重来。</key>
+	<string>已暂停。再点「继续下载」会从断点继续，已下载的部分不会重来。</string>
+	<key>已暂停读取和保存</key>
+	<string>已暂停读取和保存</string>
+	<key>已自动完成。你可以改中文，英文和回译会跟随更新；核对后再使用。</key>
+	<string>已自动完成。你可以改中文，英文和回译会跟随更新；核对后再使用。</string>
+	<key>已识别拍击</key>
+	<string>已识别拍击</string>
+	<key>已选中目标和附近上下文，自动翻译并起草。无关内容可取消勾选，漏段可并入目标。</key>
+	<string>已选中目标和附近上下文，自动翻译并起草。无关内容可取消勾选，漏段可并入目标。</string>
+	<key>已采用</key>
+	<string>已采用</string>
+	<key>希望使用的译法</key>
+	<string>希望使用的译法</string>
+	<key>并入目标原文</key>
+	<string>并入目标原文</string>
+	<key>应用修改要求</key>
+	<string>应用修改要求</string>
+	<key>开启后记录主动截取的文字和回复。只保留所选上下文，不保存截图。</key>
+	<string>开启后记录主动截取的文字和回复。只保留所选上下文，不保存截图。</string>
+	<key>开启本机记忆</key>
+	<string>开启本机记忆</string>
+	<key>开启记忆后，所选文字和回复加密保存在本机。可随时暂停、纠正或删除。</key>
+	<string>开启记忆后，所选文字和回复加密保存在本机。可随时暂停、纠正或删除。</string>
+	<key>开始前动作较多，稍停后再拍</key>
+	<string>开始前动作较多，稍停后再拍</string>
+	<key>开始新回复</key>
+	<string>开始新回复</string>
+	<key>开始新的回复？</key>
+	<string>开始新的回复？</string>
+	<key>当前内容只保留在内存，不保存聊天历史。外观跟随系统，支持减少动态效果。</key>
+	<string>当前内容只保留在内存，不保存聊天历史。外观跟随系统，支持减少动态效果。</string>
+	<key>当前明确要求始终优先。</key>
+	<string>当前明确要求始终优先。</string>
+	<key>快捷键注册失败，请使用“3 秒后抓取”按钮。</key>
+	<string>快捷键注册失败，请使用“3 秒后抓取”按钮。</string>
+	<key>恰好的英文</key>
+	<string>恰好的英文</string>
+	<key>慢慢，更懂你。</key>
+	<string>慢慢，更懂你。</string>
+	<key>或轻拍三下机身</key>
+	<string>或轻拍三下机身</string>
+	<key>或轻拍两下机身</key>
+	<string>或轻拍两下机身</string>
+	<key>截图对照</key>
+	<string>截图对照</string>
+	<key>截图未成功：%@。可以检查已有文字；刚授权后请退出并重新打开。</key>
+	<string>截图未成功：%@。可以检查已有文字；刚授权后请退出并重新打开。</string>
+	<key>手势</key>
+	<string>手势</string>
+	<key>打字中，拍击暂不触发</key>
+	<string>打字中，拍击暂不触发</string>
+	<key>打字后停 0.3 秒，再连拍机身。只读取按键活动时间，不读取输入内容。</key>
+	<string>打字后停 0.3 秒，再连拍机身。只读取按键活动时间，不读取输入内容。</string>
+	<key>打开 Chillor Reply</key>
+	<string>打开 Chillor Reply</string>
+	<key>把想法写在这里。
+不用斟酌英文，先把意思说明白。</key>
+	<string>把想法写在这里。
+不用斟酌英文，先把意思说明白。</string>
+	<key>把鼠标移到一条消息上，按 ⌃⌥Space。</key>
+	<string>把鼠标移到一条消息上，按 ⌃⌥Space。</string>
+	<key>抓取一条消息</key>
+	<string>抓取一条消息</string>
+	<key>抓取后可对照原窗口。</key>
+	<string>抓取后可对照原窗口。</string>
+	<key>抓取消息后，可在这里调整上下文。</key>
+	<string>抓取消息后，可在这里调整上下文。</string>
+	<key>抓取鼠标指向的消息</key>
+	<string>抓取鼠标指向的消息</string>
+	<key>拍三下</key>
+	<string>拍三下</string>
+	<key>拍两下</key>
+	<string>拍两下</string>
+	<key>拍击不可用：需要加速度计和陀螺仪均可读取</key>
+	<string>拍击不可用：需要加速度计和陀螺仪均可读取</string>
+	<key>拍击检测已关闭</key>
+	<string>拍击检测已关闭</string>
+	<key>拍机身触发</key>
+	<string>拍机身触发</string>
+	<key>指向内容，按快捷键查看翻译和回复。</key>
+	<string>指向内容，按快捷键查看翻译和回复。</string>
+	<key>指向消息按 ⌃⌥Space，自动翻译并起草回复。</key>
+	<string>指向消息按 ⌃⌥Space，自动翻译并起草回复。</string>
+	<key>指向消息，按</key>
+	<string>指向消息，按</string>
+	<key>搜索记忆</key>
+	<string>搜索记忆</string>
+	<key>搜索记忆…</key>
+	<string>搜索记忆…</string>
+	<key>撤销</key>
+	<string>撤销</string>
+	<key>撤销上一步</key>
+	<string>撤销上一步</string>
+	<key>撰写回复</key>
+	<string>撰写回复</string>
+	<key>收到拍击，正在排除后续动作…</key>
+	<string>收到拍击，正在排除后续动作…</string>
+	<key>收到第 %@ 下</key>
+	<string>收到第 %@ 下</string>
+	<key>改中文，英文自动跟上</key>
+	<string>改中文，英文自动跟上</string>
+	<key>改写英文，不发送消息</key>
+	<string>改写英文，不发送消息</string>
+	<key>新回复</key>
+	<string>新回复</string>
+	<key>新回复 ⌘N</key>
+	<string>新回复 ⌘N</string>
+	<key>无需整理笔记，也不用每天教一遍。你可以随时查看和纠正。</key>
+	<string>无需整理笔记，也不用每天教一遍。你可以随时查看和纠正。</string>
+	<key>旧版记忆需要一次迁移。完成后无需再解锁，已有记录会保留。</key>
+	<string>旧版记忆需要一次迁移。完成后无需再解锁，已有记录会保留。</string>
+	<key>显示最近 100 条，搜索可缩小范围。</key>
+	<string>显示最近 100 条，搜索可缩小范围。</string>
+	<key>暂不开启</key>
+	<string>暂不开启</string>
+	<key>暂停下载</key>
+	<string>暂停下载</string>
+	<key>暂无偏好</key>
+	<string>暂无偏好</string>
+	<key>暂无截图</key>
+	<string>暂无截图</string>
+	<key>暂无沟通记录</key>
+	<string>暂无沟通记录</string>
+	<key>更多</key>
+	<string>更多</string>
+	<key>更柔和的语气</key>
+	<string>更柔和的语气</string>
+	<key>更简洁的回复</key>
+	<string>更简洁的回复</string>
+	<key>最后一句，由你决定。</key>
+	<string>最后一句，由你决定。</string>
+	<key>有用的对话，留在这里。</key>
+	<string>有用的对话，留在这里。</string>
+	<key>未收到连续传感器数据，请关闭后重试</key>
+	<string>未收到连续传感器数据，请关闭后重试</string>
+	<key>未检测运动传感器</key>
+	<string>未检测运动传感器</string>
+	<key>未能复制英文，请重试。</key>
+	<string>未能复制英文，请重试。</string>
+	<key>未能确认填回成功，请检查原输入框；也可以复制英文。</key>
+	<string>未能确认填回成功，请检查原输入框；也可以复制英文。</string>
+	<key>未识别，可留空</key>
+	<string>未识别，可留空</string>
+	<key>未读到内容。请指向消息正文重试，或开启截图识别。</key>
+	<string>未读到内容。请指向消息正文重试，或开启截图识别。</string>
+	<key>未采用</key>
+	<string>未采用</string>
+	<key>本地 Qwen · 已就绪</key>
+	<string>本地 Qwen · 已就绪</string>
+	<key>本地智能</key>
+	<string>本地智能</string>
+	<key>本地模型已就绪</key>
+	<string>本地模型已就绪</string>
+	<key>本地模型服务没有接受下载请求。请点「重新检查」后再试。</key>
+	<string>本地模型服务没有接受下载请求。请点「重新检查」后再试。</string>
+	<key>本地模型没有生成文字，请重试。</key>
+	<string>本地模型没有生成文字，请重试。</string>
+	<key>本地模型请求未成功。请检查模型状态后重试。</key>
+	<string>本地模型请求未成功。请检查模型状态后重试。</string>
+	<key>本地模型返回错误，请重试。</key>
+	<string>本地模型返回错误，请重试。</string>
+	<key>本地模型返回错误：%@</key>
+	<string>本地模型返回错误：%@</string>
+	<key>本机记忆</key>
+	<string>本机记忆</string>
+	<key>本次不读取、不保存记忆。</key>
+	<string>本次不读取、不保存记忆。</string>
+	<key>本次内容已清除。</key>
+	<string>本次内容已清除。</string>
+	<key>本次内容较长，请减少上下文或缩短草稿。</key>
+	<string>本次内容较长，请减少上下文或缩短草稿。</string>
+	<key>本次原文、草稿和修改记录会被清除。</key>
+	<string>本次原文、草稿和修改记录会被清除。</string>
+	<key>本次处理耗时</key>
+	<string>本次处理耗时</string>
+	<key>术语</key>
+	<string>术语</string>
+	<key>机器在移动，等待放稳</key>
+	<string>机器在移动，等待放稳</string>
+	<key>来信译文会显示在这里…</key>
+	<string>来信译文会显示在这里…</string>
+	<key>来自 </key>
+	<string>来自 </string>
+	<key>来自 %@ 条采用记录</key>
+	<string>来自 %@ 条采用记录</string>
+	<key>极灵敏</key>
+	<string>极灵敏</string>
+	<key>柔和一点</key>
+	<string>柔和一点</string>
+	<key>查看原文、截图与附近上下文</key>
+	<string>查看原文、截图与附近上下文</string>
+	<key>标准</key>
+	<string>标准</string>
+	<key>核对</key>
+	<string>核对</string>
+	<key>核对中文与回译，再确认使用。不会自动发送。</key>
+	<string>核对中文与回译，再确认使用。不会自动发送。</string>
+	<key>核对回复</key>
+	<string>核对回复</string>
+	<key>模型</key>
+	<string>模型</string>
+	<key>正在下载模型权重…</key>
+	<string>正在下载模型权重…</string>
+	<key>正在写入本机…</key>
+	<string>正在写入本机…</string>
+	<key>正在写英文</key>
+	<string>正在写英文</string>
+	<key>正在准备模型…</key>
+	<string>正在准备模型…</string>
+	<key>正在回到上一版英文…</key>
+	<string>正在回到上一版英文…</string>
+	<key>正在回译当前英文…</key>
+	<string>正在回译当前英文…</string>
+	<key>正在按你的要求改写英文…</key>
+	<string>正在按你的要求改写英文…</string>
+	<key>正在整理你的意思</key>
+	<string>正在整理你的意思</string>
+	<key>正在本机识别文字…</key>
+	<string>正在本机识别文字…</string>
+	<key>正在本机读取…</key>
+	<string>正在本机读取…</string>
+	<key>正在校验完整性…</key>
+	<string>正在校验完整性…</string>
+	<key>正在核对英文含义</key>
+	<string>正在核对英文含义</string>
+	<key>正在独立回译英文，供你核对…</key>
+	<string>正在独立回译英文，供你核对…</string>
+	<key>正在独立回译，供你核对这次改动的实际含义…</key>
+	<string>正在独立回译，供你核对这次改动的实际含义…</string>
+	<key>正在生成英文回复…</key>
+	<string>正在生成英文回复…</string>
+	<key>正在自动处理本次消息…</key>
+	<string>正在自动处理本次消息…</string>
+	<key>正在获取模型信息…</key>
+	<string>正在获取模型信息…</string>
+	<key>正在读取消息</key>
+	<string>正在读取消息</string>
+	<key>正在起草中文回复…</key>
+	<string>正在起草中文回复…</string>
+	<key>正在连接本地模型…</key>
+	<string>正在连接本地模型…</string>
+	<key>正在预热模型…</key>
+	<string>正在预热模型…</string>
+	<key>每一句，都有来处。</key>
+	<string>每一句，都有来处。</string>
+	<key>永久</key>
+	<string>永久</string>
+	<key>沟通记录</key>
+	<string>沟通记录</string>
+	<key>沟通记录、术语和偏好都会删除。当前回复不会重新写回记忆；新回复可以重新积累。</key>
+	<string>沟通记录、术语和偏好都会删除。当前回复不会重新写回记忆；新回复可以重新积累。</string>
+	<key>没有找到鼠标下的可抓取窗口。已有文字仍可检查。</key>
+	<string>没有找到鼠标下的可抓取窗口。已有文字仍可检查。</string>
+	<key>没有读到文字。请在聊天输入框写几句中文再按 ⌃⌥R；也可以直接在此起草。</key>
+	<string>没有读到文字。请在聊天输入框写几句中文再按 ⌃⌥R；也可以直接在此起草。</string>
+	<key>消息来源</key>
+	<string>消息来源</string>
+	<key>添加记忆</key>
+	<string>添加记忆</string>
+	<key>清空修改记录</key>
+	<string>清空修改记录</string>
+	<key>清空全部</key>
+	<string>清空全部</string>
+	<key>清零</key>
+	<string>清零</string>
+	<key>灵敏</key>
+	<string>灵敏</string>
+	<key>灵敏度</key>
+	<string>灵敏度</string>
+	<key>点击中，拍击暂不触发</key>
+	<string>点击中，拍击暂不触发</string>
+	<key>版本</key>
+	<string>版本</string>
+	<key>状态</key>
+	<string>状态</string>
+	<key>独立回译</key>
+	<string>独立回译</string>
+	<key>独立回译，发送前更安心</key>
+	<string>独立回译，发送前更安心</string>
+	<key>生成的草稿较长，请缩短后自动重试。</key>
+	<string>生成的草稿较长，请缩短后自动重试。</string>
+	<key>用于理解</key>
+	<string>用于理解</string>
+	<key>由你指定</key>
+	<string>由你指定</string>
+	<key>目标原文</key>
+	<string>目标原文</string>
+	<key>目标消息</key>
+	<string>目标消息</string>
+	<key>直接写回复</key>
+	<string>直接写回复</string>
+	<key>相邻不代表同一话题。取消无关内容，或将漏掉的段落并入目标。</key>
+	<string>相邻不代表同一话题。取消无关内容，或将漏掉的段落并入目标。</string>
+	<key>看原文</key>
+	<string>看原文</string>
+	<key>看译文</key>
+	<string>看译文</string>
+	<key>确认并填回</key>
+	<string>确认并填回</string>
+	<key>确认并复制英文</key>
+	<string>确认并复制英文</string>
+	<key>确认目标消息，保留真正相关的上下文。</key>
+	<string>确认目标消息，保留真正相关的上下文。</string>
+	<key>磁盘空间不足：模型需要约 %@，当前可用 %@。清理后再试。</key>
+	<string>磁盘空间不足：模型需要约 %@，当前可用 %@。清理后再试。</string>
+	<key>示例识别失败：%@</key>
+	<string>示例识别失败：%@</string>
+	<key>示例：已选中目标及附近候选上下文，自动翻译并起草。可取消无关上下文。</key>
+	<string>示例：已选中目标及附近候选上下文，自动翻译并起草。可取消无关上下文。</string>
+	<key>立即更新英文</key>
+	<string>立即更新英文</string>
+	<key>等待传感器数据…</key>
+	<string>等待传感器数据…</string>
+	<key>等待传感器稳定…</key>
+	<string>等待传感器稳定…</string>
+	<key>等待本地模型就绪，随后自动处理…</key>
+	<string>等待本地模型就绪，随后自动处理…</string>
+	<key>简短一点</key>
+	<string>简短一点</string>
+	<key>管理本机保存的记录、偏好与术语。</key>
+	<string>管理本机保存的记录、偏好与术语。</string>
+	<key>粘贴</key>
+	<string>粘贴</string>
+	<key>约 17.7 GB，仅首次下载需要联网。聊天内容在本机处理，没有云端回退。</key>
+	<string>约 17.7 GB，仅首次下载需要联网。聊天内容在本机处理，没有云端回退。</string>
+	<key>结果</key>
+	<string>结果</string>
+	<key>编辑</key>
+	<string>编辑</string>
+	<key>缩放</key>
+	<string>缩放</string>
+	<key>缺少本地模型组件，请使用完整的 Chillor Reply.app。</key>
+	<string>缺少本地模型组件，请使用完整的 Chillor Reply.app。</string>
+	<key>翻译</key>
+	<string>翻译</string>
+	<key>翻译与回复</key>
+	<string>翻译与回复</string>
+	<key>英文 → 中文</key>
+	<string>英文 → 中文</string>
+	<key>英文回复</key>
+	<string>英文回复</string>
+	<key>英文回复将显示在这里。</key>
+	<string>英文回复将显示在这里。</string>
+	<key>英文实际表达的意思</key>
+	<string>英文实际表达的意思</string>
+	<key>英文已填回，请在原应用检查并手动发送。</key>
+	<string>英文已填回，请在原应用检查并手动发送。</string>
+	<key>英文已复制</key>
+	<string>英文已复制</string>
+	<key>英文已复制，可回到输入框粘贴。</key>
+	<string>英文已复制，可回到输入框粘贴。</string>
+	<key>英文生成后，会独立回译成中文供你核对。</key>
+	<string>英文生成后，会独立回译成中文供你核对。</string>
+	<key>蓝框为目标，橙框为上下文，虚线为筛选范围。截图不会上传或存档。</key>
+	<string>蓝框为目标，橙框为上下文，虚线为筛选范围。截图不会上传或存档。</string>
+	<key>表达</key>
+	<string>表达</string>
+	<key>表达偏好</key>
+	<string>表达偏好</string>
+	<key>解锁记忆</key>
+	<string>解锁记忆</string>
+	<key>让下一次，更贴近你。</key>
+	<string>让下一次，更贴近你。</string>
+	<key>让表达，贴近你的本意。</key>
+	<string>让表达，贴近你的本意。</string>
+	<key>记住产品名或常用词的译法，只在当前文字出现该术语时参考。</key>
+	<string>记住产品名或常用词的译法，只在当前文字出现该术语时参考。</string>
+	<key>记住有用的，留下决定权。</key>
+	<string>记住有用的，留下决定权。</string>
+	<key>记忆</key>
+	<string>记忆</string>
+	<key>记忆内容</key>
+	<string>记忆内容</string>
+	<key>记忆已锁定。解锁后可继续使用；现有记录保持不变。</key>
+	<string>记忆已锁定。解锁后可继续使用；现有记录保持不变。</string>
+	<key>记忆暂不可用，当前回复不会保存。</key>
+	<string>记忆暂不可用，当前回复不会保存。</string>
+	<key>记忆未保存</key>
+	<string>记忆未保存</string>
+	<key>记忆未能保存，请打开记忆重试。</key>
+	<string>记忆未能保存，请打开记忆重试。</string>
+	<key>设为目标消息</key>
+	<string>设为目标消息</string>
+	<key>设置</key>
+	<string>设置</string>
+	<key>设置 ⌘,</key>
+	<string>设置 ⌘,</string>
+	<key>设置…</key>
+	<string>设置…</string>
+	<key>试一条示例</key>
+	<string>试一条示例</string>
+	<key>请先开启辅助功能或屏幕录制权限，再抓取。</key>
+	<string>请先开启辅助功能或屏幕录制权限，再抓取。</string>
+	<key>请先开启辅助功能，再在聊天输入框按 ⌃⌥R。</key>
+	<string>请先开启辅助功能，再在聊天输入框按 ⌃⌥R。</string>
+	<key>请先点击原应用的输入框，写好中文后按 ⌃⌥R。</key>
+	<string>请先点击原应用的输入框，写好中文后按 ⌃⌥R。</string>
+	<key>请在 3 秒内把鼠标移到目标消息上…</key>
+	<string>请在 3 秒内把鼠标移到目标消息上…</string>
+	<key>读取原输入框草稿</key>
+	<string>读取原输入框草稿</string>
+	<key>读懂</key>
+	<string>读懂</string>
+	<key>读懂来信</key>
+	<string>读懂来信</string>
+	<key>读懂来信，用中文想清楚，再从容回复。</key>
+	<string>读懂来信，用中文想清楚，再从容回复。</string>
+	<key>跨应用权限</key>
+	<string>跨应用权限</string>
+	<key>载入 %@ 秒</key>
+	<string>载入 %@ 秒</string>
+	<key>辅助功能</key>
+	<string>辅助功能</string>
+	<key>辅助功能用于读取与填回；屏幕录制用于本地识字。首次授予屏幕录制权限后，请退出并重新打开应用。</key>
+	<string>辅助功能用于读取与填回；屏幕录制用于本地识字。首次授予屏幕录制权限后，请退出并重新打开应用。</string>
+	<key>输入中文草稿…</key>
+	<string>输入中文草稿…</string>
+	<key>输入框快捷键注册失败，请直接在这里起草。</key>
+	<string>输入框快捷键注册失败，请直接在这里起草。</string>
+	<key>迁移已有记忆</key>
+	<string>迁移已有记忆</string>
+	<key>运动传感器可用</key>
+	<string>运动传感器可用</string>
+	<key>这个应用未提供可读取的输入框。可以在此写中文，核对后复制英文。</key>
+	<string>这个应用未提供可读取的输入框。可以在此写中文，核对后复制英文。</string>
+	<key>这个输入框不支持直接填回。请点“复制英文”，回到输入框粘贴。</key>
+	<string>这个输入框不支持直接填回。请点“复制英文”，回到输入框粘贴。</string>
+	<key>这些内容提供给了生成步骤，独立回译不会读取记忆。</key>
+	<string>这些内容提供给了生成步骤，独立回译不会读取记忆。</string>
+	<key>这台机器缺少可用的运动传感器</key>
+	<string>这台机器缺少可用的运动传感器</string>
+	<key>这条记录支持的自动偏好也会重新评估。</key>
+	<string>这条记录支持的自动偏好也会重新评估。</string>
+	<key>这次不用</key>
+	<string>这次不用</string>
+	<key>这次参考了什么</key>
+	<string>这次参考了什么</string>
+	<key>退出</key>
+	<string>退出</string>
+	<key>退出 Chillor Reply</key>
+	<string>退出 Chillor Reply</string>
+	<key>适应</key>
+	<string>适应</string>
+	<key>选中的上下文</key>
+	<string>选中的上下文</string>
+	<key>采用版本不代表已经发送。</key>
+	<string>采用版本不代表已经发送。</string>
+	<key>重新独立回译</key>
+	<string>重新独立回译</string>
+	<key>重新翻译来信</key>
+	<string>重新翻译来信</string>
+	<key>重新连接</key>
+	<string>重新连接</string>
+	<key>重试</key>
+	<string>重试</string>
+	<key>间隔超时，请连着拍</key>
+	<string>间隔超时，请连着拍</string>
+	<key>阅读翻译</key>
+	<string>阅读翻译</string>
+	<key>附近上下文 · %@ 条</key>
+	<string>附近上下文 · %@ 条</string>
+	<key>需下载本地模型（约 17.7 GB）</key>
+	<string>需下载本地模型（约 17.7 GB）</string>
+	<key>预热</key>
+	<string>预热</string>
+	<key>鼠标指向了助手自己。请移到聊天消息，再按快捷键。</key>
+	<string>鼠标指向了助手自己。请移到聊天消息，再按快捷键。</string>
+</dict>
+</plist>
